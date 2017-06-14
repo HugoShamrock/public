@@ -81,6 +81,25 @@ A simple script to decrypt stored passwords from the Oracle SQL Developer IDE
 * gsauthof https://github.com/gsauthof/sqldeveloperpassworddecryptor.git
 * kumzugloom https://github.com/kumzugloom/sqldeveloperpassworddecryptor.git
 
+### sqldeveloper-package
+Oracle SQL Developer Debian package builder
+* myfork https://github.com/HugoShamrock/sqldeveloper-package
+
+### desknfc
+DeskNFC is a KDE4 plasmoid which offers NFC content access.
+* myfork https://github.com/HugoShamrock/desknfc
+
+### mtools
+Mtools is GUI interface for libnfc. For now it is able to operate with Mifare Classic Tags.
+* myfork https://github.com/HugoShamrock/mtools
+
+## [scrapped]
+
+### exchange-dot-cz
+* origin https://github.com/HugoShamrock/exchange-dot-cz.git
+
+## [[queries]](https://github.com/HugoShamrock/queries.git)
+
 ## [[gists]](https://gist.github.com/HugoShamrock/)
 
 * [autopoweroff](https://gist.github.com/HugoShamrock/1031c28f68bb5b3c661eb7841e658319.git)
